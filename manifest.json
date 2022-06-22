@@ -1,0 +1,9 @@
+{
+    "name": "AutoTranslationPlugin",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "Automatically translate the game's texts to any supported language (WORK IN PROGRESS)",
+    "dependencies": [
+        "willis81808-UnboundLib-3.1.2"
+    ]
+}

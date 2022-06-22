@@ -1,0 +1,137 @@
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.pdb
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.pdb
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\Unity.TextMeshPro.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ClothModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AIModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AudioModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.GridModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.LocalizationModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.StreamingModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VFXModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VideoModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.WindModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UIModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UNETModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.InputModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TextCoreModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.XRModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ARModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VRModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.AutoTranslator.Plugin.Core.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\ExIni.dll
+C:\Program Files (x86)\Steam\steamapps\common\ROUNDS\AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.AutoTranslator.Plugin.ExtProtocol.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.deps.json
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.pdb
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\Unity.TextMeshPro.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.AutoTranslator.Plugin.Core.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\ExIni.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.AutoTranslator.Plugin.ExtProtocol.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ClothModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AIModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AudioModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.GridModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.LocalizationModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.StreamingModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VFXModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VideoModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.WindModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UIModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UNETModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.InputModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.TextCoreModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.XRModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.ARModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.VRModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.csproj.AssemblyReference.cache
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.AssemblyInfoInputs.cache
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.AssemblyInfo.cs
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.csproj.CoreCompileInputs.cache
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.csproj.CopyComplete
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.dll
+C:\Users\33668\Downloads\AutoTranslationPlugin\obj\Debug\netstandard2.0\AutoTranslationPlugin.pdb
+C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.ResourceRedirector.dll
