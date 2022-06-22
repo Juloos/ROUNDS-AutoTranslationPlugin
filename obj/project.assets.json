@@ -2501,14 +2501,14 @@
   "project": {
     "version": "0.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\33668\\Downloads\\AutoTranslationPlugin\\AutoTranslationPlugin.csproj",
+      "projectUniqueName": "C:\\Users\\33668\\RiderProjects\\ROUNDS-AutoTranslationPlugin\\AutoTranslationPlugin.csproj",
       "projectName": "AutoTranslationPlugin",
-      "projectPath": "C:\\Users\\33668\\Downloads\\AutoTranslationPlugin\\AutoTranslationPlugin.csproj",
+      "projectPath": "C:\\Users\\33668\\RiderProjects\\ROUNDS-AutoTranslationPlugin\\AutoTranslationPlugin.csproj",
       "packagesPath": "C:\\Users\\33668\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\33668\\Downloads\\AutoTranslationPlugin\\obj\\",
+      "outputPath": "C:\\Users\\33668\\RiderProjects\\ROUNDS-AutoTranslationPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\33668\\Downloads\\AutoTranslationPlugin\\NuGet.Config",
+        "C:\\Users\\33668\\RiderProjects\\ROUNDS-AutoTranslationPlugin\\NuGet.Config",
         "C:\\Users\\33668\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [

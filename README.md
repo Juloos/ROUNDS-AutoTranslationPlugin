@@ -1,25 +1,11 @@
 # AutoTranslationPlugin
 
-WORK IN PROGRESS
+This project is a ROUNDS BepInEx plugin aiming at translating the game's labels to any supported language.
 
+## Installation
 
-## Settings
-
-You can change the language option in `MODS > AUTOTRANSLATIONPLUGIN`
-
-Select there your language, and then hit the red button to load it, this action will shut down the game, you will have to restart it in order to play the translated game.
-
-
-## Custom dictionnaries
-
-The plugin comes with a custom translation dictionnary for french, but you are welcome to contact me at juloos.sfr@gmail.com, or simply DM to `Juloos#0001` on Discord, if (and only if !) you want to help get a deeper localization of the game in your language.
-
-
-## Technical details
-
-The plugin sends requests to the Google Translate API to translate the text, and text is translated on the go. So you will need internet connection in order for the plugin to work.
-
+The plugin requires [BepInEx](https://github.com/BepInEx/BepInEx) to be installed on ROUNDS and is dependent to [UnboundLib-3.1.2](https://github.com/Rounds-Modding/UnboundLib) and [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) plugins. You can also easily setup and mod the game with the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) from Overwolf
 
 ## Credits
 
-Big thanks to Bepis for the more general translation plugin, you can check the github repository here: https://github.com/bbepis/XUnity.AutoTranslator
+Big thanks to Bepis for the more general translation plugin, you can check it here: https://github.com/bbepis/XUnity.AutoTranslator
