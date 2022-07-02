@@ -2499,7 +2499,7 @@
     "C:\\Users\\33668\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "0.1.0",
+    "version": "0.1.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\33668\\RiderProjects\\ROUNDS-AutoTranslationPlugin\\AutoTranslationPlugin.csproj",
       "projectName": "AutoTranslationPlugin",

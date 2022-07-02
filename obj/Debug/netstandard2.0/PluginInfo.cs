@@ -4,6 +4,6 @@ namespace AutoTranslationPlugin
     {
         public const string PLUGIN_GUID = "AutoTranslationPlugin";
         public const string PLUGIN_NAME = "AutoTranslationPlugin";
-        public const string PLUGIN_VERSION = "0.1.1";
+        public const string PLUGIN_VERSION = "0.1.2";
     }
 }

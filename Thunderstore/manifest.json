@@ -1,7 +1,7 @@
 {
     "name": "AutoTranslationPlugin",
-    "version_number": "0.1.0",
-    "website_url": "",
+    "version_number": "0.1.2",
+    "website_url": "https://github.com/Juloos/ROUNDS-AutoTranslationPlugin",
     "description": "Automatically translate the game's texts to any supported language (WORK IN PROGRESS)",
     "dependencies": [
         "willis81808-UnboundLib-3.1.2"

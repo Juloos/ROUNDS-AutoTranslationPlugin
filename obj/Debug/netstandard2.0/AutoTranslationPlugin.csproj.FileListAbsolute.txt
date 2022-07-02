@@ -138,11 +138,6 @@ C:\Users\33668\Downloads\AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.R
 C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.deps.json
 C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.dll
 C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\AutoTranslationPlugin.pdb
-C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\Unity.TextMeshPro.dll
-C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
-C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.dll
-C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\UnityEngine.UI.dll
-C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.AutoTranslator.Plugin.Core.dll
 C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.ResourceRedirector.dll
 C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\ExIni.dll
 C:\Users\33668\RiderProjects\ROUNDS-AutoTranslationPlugin\bin\Debug\netstandard2.0\XUnity.AutoTranslator.Plugin.ExtProtocol.dll
