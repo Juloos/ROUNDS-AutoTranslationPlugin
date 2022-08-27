@@ -14,7 +14,7 @@ There are currently latin-based languages only, this is because of the game's fo
 
 ## Custom dictionaries
 
-The plugin comes with a custom translation dictionary for french, but you are welcome to contact me at juloos.sfr@gmail.com, or simply DM to `Juloos#0001` on Discord, if (and only if !) you want to help get a deeper localization of the game in your language.
+The plugin comes with a custom translation dictionary for french, but you are welcome to contact me at juloos.sfr@gmail.com, or simply DM to `Juloos#4653` on Discord, if (and only if !) you want to help get a deeper localization of the game in your language.
 
 
 ## Technical details
